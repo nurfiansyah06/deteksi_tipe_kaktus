@@ -2,13 +2,13 @@
 
 <h5>### Install Flask</h5>
 
-        ``` bash
-        $ pip install Flask
-        ```
+``` bash
+$ pip install Flask
+```
    
 <h5>### Install Tensorflow</h5>
 
-        ``` bash
-        $ pip install tensorflow
-        ```
+``` bash
+$ pip install tensorflow
+```
     
