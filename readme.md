@@ -7,17 +7,24 @@ Aplikasi ini dibuat dengan python dengan tambahan library Flask dan Tensorflow.
 <h1>How to run</h1>
 
 <h5># Download terlebih dahulu projectnya</h5>
+
 <h5># Install Flask</h5>
 
 ``` bash
-$ export FLASK_ENV=development
-$ export FLASK_APP=app.py
 $ pip install Flask
 ```
-   
+
 <h5># Install Tensorflow</h5>
 
 ``` bash
 $ pip install tensorflow
+```
+
+<h5># Running Flask</h5>
+
+``` bash
+$ export FLASK_ENV=development
+$ export FLASK_APP=app.py
+$ Flask run
 ```
     
